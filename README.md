@@ -8,7 +8,7 @@ A fast-food chain plans to add a new item to its menu. However, they are still u
 Goal of this A/B test was to understand which promotion has a better result in product sales. 
 
 
-**Tools used**
+**Tools used:**
 SQL in BigQuery, Google Sheets
 
 
